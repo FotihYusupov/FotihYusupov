@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/b5/1b/cb/b51bcb78bf0111756cb347dc51379a95.gif" alt="Cyberpunk City" width="100%">
+  <img src="./gh.png" alt="Cyberpunk Neon Banner" width="100%">
 </div>
 
 # 💻 INITIALIZING PROFILE...
